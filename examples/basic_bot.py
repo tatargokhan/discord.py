@@ -66,4 +66,10 @@ async def _bot(ctx):
     """Is the bot cool?"""
     await ctx.send('Yes, the bot is cool.')
 
-bot.run('token')
+bot.run('ODYyMDE0MjM5NDY3ODk2ODg0.YOSLUg.bB6H-PBaG374LihIAmFXT8akW8k')
+
+if msg.startswith('Sa'):
+    await message.reply'Möleyküm selam ', mention_author=True)
+    
+    if msg.startswith('aptal emir'):
+         await message.reply'https://discord.com/channels/@me/730415417289474128/862023798731833374 ', mention_author=True)
